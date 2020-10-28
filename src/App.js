@@ -7,4 +7,5 @@ class App extends React.Component {
     return <Pokedex/>
   }
 }
+
 ReactDOM.render(<App />, document.getElementById("root"));
